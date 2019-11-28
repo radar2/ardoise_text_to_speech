@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ardoiseNumerique</string>
+
+    <string name="nouveau">Nouveau</string>
+    <string name="brush">brush</string>
+    <string name="effacer">Effacer</string>
+    <string name="enregistrer">enregistrer</string>
+    <string name="ecrire">ecrire</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+</resources>
